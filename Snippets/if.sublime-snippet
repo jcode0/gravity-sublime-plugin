@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[if (${1:boolean value}) {
+	${2://body}
+}
+${3}]]></content>
+    <tabTrigger>if</tabTrigger>
+    <scope>source.gravity</scope>
+    <description>if</description>
+</snippet>

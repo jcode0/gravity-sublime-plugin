@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[func ${1:function_name}(${2}) {
+	${0:// body...}
+}]]></content>
+    <tabTrigger>func</tabTrigger>
+    <scope>source.gravity</scope>
+    <description>Function</description>
+</snippet>

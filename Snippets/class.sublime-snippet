@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[class ${1:class_name} {
+	${0:// class body...}
+}]]></content>
+    <tabTrigger>class</tabTrigger>
+    <scope>source.gravity</scope>
+    <description>class {}</description>
+</snippet>

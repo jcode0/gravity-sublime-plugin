@@ -1,0 +1,7 @@
+ <snippet>
+    <content><![CDATA[System.gcthreshold;
+${0}]]></content>
+    <tabTrigger>System</tabTrigger>
+    <scope>source.gravity</scope>
+    <description>System.gcthreshold</description>
+</snippet>

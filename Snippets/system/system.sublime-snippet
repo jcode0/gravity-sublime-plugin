@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[System]]></content>
+    <tabTrigger>System</tabTrigger>
+    <scope>source.gravity</scope>
+    <description>System</description>
+</snippet>
